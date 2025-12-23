@@ -24,5 +24,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-![Colossians 3:23](https://img.shields.io/badge/Colossians%203:23-Whatever%20you%20do%2C%20work%20at%20it%20with%20all%20your%20heart.-1f2937?style=for-the-badge&logoColor=white)
+> *"Whatever you do, work at it with all your heart."*  
+> — Colossians 3:23
+
 
