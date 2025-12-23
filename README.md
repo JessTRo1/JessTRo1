@@ -25,6 +25,6 @@
 
 ---
 > *"Whatever you do, work at it with all your heart."*  
-> — Colossians 3:23
+> - Colossians 3:23
 
 
